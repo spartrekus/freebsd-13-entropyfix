@@ -6,6 +6,7 @@ boot directory copy from the cdrom of working entropy on modern notebook, i.e. F
 The best fix is to use : 
     pkg static 
 
+You're supposed to run pkg-static install -f pkg as pkg output suggests.
 
 
 
